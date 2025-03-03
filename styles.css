@@ -757,6 +757,7 @@ font-size: 1.9rem !important;
 footer a{
   padding-bottom: 10vw !important;
   margin-bottom: 10vw;
+    line-height: 2rem; /*täss*/
 }
 
 body {
